@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there! I'm Yugandhar, a reacent Computer Science & Engineering graduate from GITAM University Hyderabad with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm Yugandhar, a recent Computer Science & Engineering graduate from GITAM University Hyderabad with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ### Skills & Interests:
 
