@@ -8,7 +8,7 @@ Hey there! I'm Yugandhar, a reacent Computer Science & Engineering graduate from
 ### Skills & Interests:
 
 - **Programming Languages**          : Java, Python, HTML, CSS
-- **Frameworks/Libraries**           : Bootstrap, Django
+- **Frameworks/Libraries**           : Flask
 - **Databases**                      : MySQL, SQLite
 - **Data Structures & Algorithms**   : Structuring Information for efficiency
 - **Developer Tools**                : Git/Github, Google Colab, VS Code, Anaconda
@@ -18,11 +18,11 @@ Hey there! I'm Yugandhar, a reacent Computer Science & Engineering graduate from
 ### Projects:
 - **EMPOWERING BRAIN MRI DETECTION**:
 Utilized DenseNet and Xception architectures for medical image classification.
-Achieved high accuracy in tumor detection using advanced preprocessing techniques.[Project Link](https://github.com/grishma-gedela/Tech-News.git)
+Achieved high accuracy in tumor detection using advanced preprocessing techniques.[Project Link](https://github.com/YugandharReddyKavalakuntla/EMPOWERING-BRAIN-MRI-DETECTION)
 
 - **PREDICTION OF DOS ATTACKS**:
 Implemented predictive models using Random Forest and KNN algorithms.
-Analyzed large datasets to identify attack patterns. [Project Link](https://github.com/grishma-gedela/Tech-News.git)
+Analyzed large datasets to identify attack patterns. [Project Link](https://github.com/YugandharReddyKavalakuntla/PREDICTION-OF-DOS-ATTACKS)
  
 
 ### Connect with Me:
