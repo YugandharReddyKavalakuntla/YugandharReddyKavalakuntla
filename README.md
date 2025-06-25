@@ -1,11 +1,11 @@
-<!--
+
 # Hi, I'm Yugandhar Reddy Kavalakuntla
 
 ## About Me
 
 Hey there! I'm Yugandhar, a passionate Full Stack Java Developer currently training at Tata STRIVE, Hyderabad. With a strong foundation in Computer Science and hands-on experience in building secure web applications, this README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
-Hey there! I'm Yugandhar, a recent Computer Science & Engineering graduate from GITAM University Hyderabad with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+<!--Hey there! I'm Yugandhar, a recent Computer Science & Engineering graduate from GITAM University Hyderabad with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in! -->
 
 ### Skills & Interests:
 
@@ -39,16 +39,16 @@ Analyzed large datasets to identify attack patterns. [Project Link](https://gith
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
- -->
+ 
 
-
+<!--
  # Hi, I'm Yugandhar Reddy Kavalakuntla 👋
 
 ## About Me
 
 Hey there! I'm Yugandhar, a passionate Full Stack Java Developer currently training at **Tata STRIVE, Hyderabad**. With a strong foundation in Computer Science and hands-on experience in building secure web applications, this README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
-<!-- Former intro: Hey there! I'm Yugandhar, a recent Computer Science & Engineering graduate from GITAM University Hyderabad with a passion for coding and crafting innovative solutions. -->
+ Former intro: Hey there! I'm Yugandhar, a recent Computer Science & Engineering graduate from GITAM University Hyderabad with a passion for coding and crafting innovative solutions. 
 
 ---
 
@@ -123,3 +123,4 @@ I'm still learning and growing as a developer, so I truly welcome **constructive
 ---
 
 *Thank you for visiting my profile! 🚀*
+-->
